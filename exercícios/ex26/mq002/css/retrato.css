@@ -1,0 +1,6 @@
+/* Retrato */
+
+html, body {
+    background: url(../img/cev-portrait.jpg);
+    background-position: center bottom;
+}
